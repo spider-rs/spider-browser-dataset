@@ -1,0 +1,124 @@
+{
+  "total_urls": 999,
+  "passed": 999,
+  "failed": 0,
+  "pass_rate": 100.0,
+  "unique_domains": 254,
+  "domains_with_pass": 254,
+  "categories": {
+    "Automotive": {
+      "total": 28,
+      "passed": 28,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Classifieds": {
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "E-Commerce": {
+      "total": 128,
+      "passed": 128,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Education": {
+      "total": 59,
+      "passed": 59,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Entertainment": {
+      "total": 45,
+      "passed": 45,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Finance": {
+      "total": 64,
+      "passed": 64,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Food": {
+      "total": 29,
+      "passed": 29,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Government": {
+      "total": 73,
+      "passed": 73,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Health": {
+      "total": 26,
+      "passed": 26,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Jobs": {
+      "total": 12,
+      "passed": 12,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "News": {
+      "total": 116,
+      "passed": 116,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Real Estate": {
+      "total": 9,
+      "passed": 9,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Reference": {
+      "total": 54,
+      "passed": 54,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Social": {
+      "total": 41,
+      "passed": 41,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Sports": {
+      "total": 22,
+      "passed": 22,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Streaming": {
+      "total": 13,
+      "passed": 13,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Technology": {
+      "total": 239,
+      "passed": 239,
+      "failed": 0,
+      "pass_rate": 100.0
+    },
+    "Travel": {
+      "total": 40,
+      "passed": 40,
+      "failed": 0,
+      "pass_rate": 100.0
+    }
+  },
+  "browser_breakdown": {
+    "chrome-h": 979,
+    "chrome-new": 15,
+    "lightpanda": 5
+  },
+  "failed_urls": []
+}

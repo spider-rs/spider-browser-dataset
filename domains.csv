@@ -1,0 +1,328 @@
+domain,category,difficulty,search_pages,keywords
+amazon.com,E-Commerce,hard,15,best sellers electronics deals home kitchen
+ebay.com,E-Commerce,hard,12,deals electronics collectibles vintage auction
+walmart.com,E-Commerce,hard,12,grocery deals weekly ad electronics toys
+target.com,E-Commerce,hard,10,home decor furniture clothing baby
+bestbuy.com,E-Commerce,hard,10,laptop deals computers monitors gaming
+etsy.com,E-Commerce,medium,10,handmade gifts jewelry vintage art
+shopify.com,E-Commerce,medium,8,blog ecommerce guide dropshipping store
+nike.com,E-Commerce,hard,10,running shoes air max jordan apparel
+costco.com,E-Commerce,hard,8,membership deals wholesale electronics grocery
+nordstrom.com,E-Commerce,medium,8,sale shoes designer clothing accessories
+wayfair.com,E-Commerce,hard,10,furniture living room bedroom kitchen rugs
+homedepot.com,E-Commerce,hard,10,power tools appliances kitchen bathroom paint
+lowes.com,E-Commerce,hard,8,bathroom vanity flooring appliances tools
+macys.com,E-Commerce,hard,8,clothing sale handbags shoes jewelry
+sephora.com,E-Commerce,hard,8,skincare makeup bestsellers fragrance
+overstock.com,E-Commerce,medium,8,rugs furniture clearance bedding lighting
+linkedin.com,Social,hard,8,company jobs hiring engineering
+instagram.com,Social,hard,5,explore trending reels
+reddit.com,Social,medium,15,subreddit popular community explore programming technology
+tiktok.com,Social,hard,5,trending videos discover creators
+facebook.com,Social,hard,5,marketplace community groups pages
+youtube.com,Social,medium,10,tutorial programming learn music technology
+medium.com,Social,medium,15,software engineering architecture guide programming startup
+pinterest.com,Social,hard,8,home decor ideas recipes fashion DIY
+snapchat.com,Social,hard,5,features stories spotlight safety
+discord.com,Social,medium,5,blog safety community servers developers
+threads.net,Social,hard,5,trending posts explore
+nytimes.com,News,hard,15,technology business 2026 science health politics
+bbc.com,News,medium,15,world news technology science health business
+cnn.com,News,medium,12,politics business technology health world
+reuters.com,News,medium,12,markets technology business world economy
+bloomberg.com,News,hard,10,markets economy finance technology AI
+wikipedia.org,News,easy,20,artificial intelligence machine learning programming history science
+wsj.com,News,hard,10,business technology economy markets
+washingtonpost.com,News,hard,10,politics technology climate health business
+apnews.com,News,medium,10,breaking news world politics technology
+nbcnews.com,News,medium,10,health science technology business
+usatoday.com,News,medium,10,money tech travel sports entertainment
+theguardian.com,News,medium,12,technology environment opinion science world
+github.com,Technology,medium,15,trending repositories rust typescript python javascript
+stackoverflow.com,Technology,medium,15,javascript async await error handling react python
+cloudflare.com,Technology,hard,8,blog workers performance security DNS
+openai.com,Technology,medium,8,research blog api documentation models
+apple.com,Technology,medium,10,iphone macbook pro specs vision watch
+google.com,Technology,easy,8,about products cloud AI search
+figma.com,Technology,medium,8,blog design system resources community
+canva.com,Technology,medium,8,templates design features business education
+vercel.com,Technology,medium,8,documentation next.js deployment blog
+aws.amazon.com,Technology,medium,10,services lambda s3 documentation pricing
+azure.microsoft.com,Technology,medium,8,services documentation pricing AI
+digitalocean.com,Technology,easy,12,tutorials community kubernetes docker nginx
+chase.com,Finance,hard,8,credit card checking account mortgage savings
+bankofamerica.com,Finance,hard,8,savings account online banking loans credit
+coinbase.com,Finance,hard,8,learn crypto bitcoin ethereum defi
+paypal.com,Finance,hard,8,business payments send money features
+stripe.com,Finance,medium,10,documentation payments api connect billing
+fidelity.com,Finance,hard,8,retirement investing 401k stocks funds
+schwab.com,Finance,hard,8,brokerage accounts trading ETF retirement
+robinhood.com,Finance,hard,8,stocks crypto investing learn options
+venmo.com,Finance,medium,5,send money business features security
+booking.com,Travel,hard,10,hotels new york deals london paris
+airbnb.com,Travel,hard,10,experiences stays unique homes luxury
+expedia.com,Travel,hard,10,flights hotels vacation packages cruise
+uber.com,Travel,medium,8,ride cities pricing eats business
+tripadvisor.com,Travel,hard,10,restaurants things to do reviews hotels
+hotels.com,Travel,hard,8,deals last minute bookings rewards
+kayak.com,Travel,hard,8,cheap flights compare hotels rental cars
+indeed.com,Jobs,hard,10,software engineer remote jobs data science
+glassdoor.com,Jobs,hard,10,company reviews salaries tech interviews
+ziprecruiter.com,Jobs,hard,8,remote jobs hiring now engineering
+monster.com,Jobs,medium,8,career advice resume jobs interview
+doordash.com,Food,hard,8,restaurants delivery near me grocery
+yelp.com,Food,medium,10,best restaurants reviews near me bars coffee
+grubhub.com,Food,hard,8,food delivery restaurants order deals
+allrecipes.com,Food,easy,12,dinner recipes chicken pasta soup dessert
+foodnetwork.com,Food,easy,10,recipes shows chefs baking grilling
+twitch.tv,Streaming,hard,8,streams gaming popular esports
+netflix.com,Streaming,hard,5,browse movies series trending
+disneyplus.com,Streaming,hard,5,movies originals series marvel
+hulu.com,Streaming,hard,5,shows movies live tv plans
+spotify.com,Streaming,medium,8,playlists podcasts premium artists
+coursera.org,Education,medium,10,courses machine learning data science AI
+edx.org,Education,medium,8,courses computer science free certificates
+khanacademy.org,Education,easy,10,math science computing economics
+udemy.com,Education,medium,10,programming web development courses python
+mit.edu,Education,easy,10,research departments admissions courses labs
+harvard.edu,Education,easy,10,programs research admissions schools
+duolingo.com,Education,medium,5,language learning courses app
+webmd.com,Health,medium,12,symptoms conditions treatment drugs vitamins
+mayoclinic.org,Health,easy,12,diseases conditions healthy lifestyle symptoms treatment
+healthline.com,Health,medium,10,nutrition fitness wellness mental health
+nih.gov,Health,easy,10,research clinical trials health grants
+clevelandclinic.org,Health,easy,10,health library diseases treatments symptoms
+zillow.com,Real Estate,hard,10,homes for sale rent estimate mortgage
+realtor.com,Real Estate,hard,8,houses for sale listings agents
+redfin.com,Real Estate,hard,8,homes for sale market data agents
+trulia.com,Real Estate,hard,8,neighborhoods homes rent schools
+apartments.com,Real Estate,medium,8,apartments for rent listings studio
+espn.com,Sports,medium,12,scores nba nfl highlights analysis
+nba.com,Sports,medium,10,standings players stats schedule news
+nfl.com,Sports,medium,10,scores standings schedule teams stats
+mlb.com,Sports,medium,10,scores standings stats news schedule
+bleacherreport.com,Sports,medium,10,nba nfl rumors analysis trades
+imdb.com,Entertainment,medium,12,top movies 2026 ratings actors TV
+rottentomatoes.com,Entertainment,medium,10,best movies reviews critics scores
+fandom.com,Entertainment,easy,12,wiki movies tv shows games anime
+irs.gov,Government,easy,10,tax forms filing refund credits
+usa.gov,Government,easy,8,benefits services agencies housing
+cdc.gov,Government,easy,10,diseases prevention health data vaccines
+nasa.gov,Government,easy,12,missions mars space exploration images gallery
+whitehouse.gov,Government,medium,8,briefings administration policies executive
+britannica.com,Reference,easy,12,encyclopedia history science technology art
+dictionary.com,Reference,easy,8,word definitions synonyms grammar
+merriam-webster.com,Reference,easy,8,dictionary thesaurus word of the day
+cars.com,Automotive,medium,10,used cars for sale reviews comparison
+autotrader.com,Automotive,medium,8,cars for sale new used trucks SUV
+kbb.com,Automotive,medium,8,car values pricing reviews best
+carvana.com,Automotive,hard,8,buy used cars online financing
+craigslist.org,Classifieds,easy,8,for sale furniture electronics housing jobs
+npr.org,News,easy,10,news podcast politics science culture music
+abcnews.go.com,News,medium,10,politics health technology world entertainment
+cbsnews.com,News,medium,10,news politics health science technology
+foxnews.com,News,medium,10,politics opinion health science tech
+time.com,News,medium,10,politics health science technology business
+wired.com,News,medium,10,science technology gear business culture
+arstechnica.com,News,easy,10,tech science policy gaming hardware
+theatlantic.com,News,medium,8,ideas politics culture technology science
+docs.python.org,Technology,easy,10,tutorial library reference functions modules
+developer.mozilla.org,Technology,easy,10,javascript css html web api reference
+rust-lang.org,Technology,easy,8,learn documentation tools community
+nodejs.org,Technology,easy,8,documentation api guides download
+learn.microsoft.com,Technology,easy,10,documentation azure dotnet windows powershell
+docs.github.com,Technology,easy,8,actions codespaces repositories pull requests
+hashicorp.com,Technology,medium,8,terraform vault consul nomad blog
+stanford.edu,Education,easy,10,research departments news academics admissions
+yale.edu,Education,easy,8,research programs news admissions campus
+berkeley.edu,Education,easy,8,research news campus admissions departments
+nature.com,Reference,medium,10,articles research biology physics chemistry
+sciencedirect.com,Reference,medium,8,journal articles research science engineering
+arxiv.org,Reference,easy,10,papers machine learning AI physics math
+wikihow.com,Reference,easy,10,how to guide tips tutorial DIY
+instructables.com,Reference,easy,8,projects DIY woodworking electronics crafts
+thespruce.com,Reference,easy,8,home garden cooking cleaning organizing
+salesforce.com,Technology,medium,8,products CRM cloud solutions blog
+hubspot.com,Technology,medium,10,blog marketing sales CRM tools resources
+atlassian.com,Technology,medium,8,jira confluence products agile blog
+notion.so,Technology,medium,8,templates guides help documentation
+slack.com,Technology,medium,8,features solutions resources integrations
+who.int,Government,easy,10,health diseases publications data news
+un.org,Government,easy,8,peace climate development goals news
+state.gov,Government,easy,8,travel countries policy diplomacy
+sec.gov,Government,easy,8,filings regulations investor education enforcement
+energy.gov,Government,easy,8,renewable solar nuclear science research
+cbssports.com,Sports,medium,10,scores fantasy nba nfl news picks
+bbc.co.uk,News,medium,12,news sport weather business technology
+dw.com,News,medium,10,world news europe asia politics culture
+aljazeera.com,News,medium,10,news middle east world politics economy
+france24.com,News,medium,8,news europe africa asia americas
+japantimes.co.jp,News,medium,8,news japan business culture technology
+scmp.com,News,hard,8,news china asia tech business
+thehindu.com,News,medium,8,india news politics economy technology
+smh.com.au,News,medium,8,news australia politics business technology
+independent.co.uk,News,medium,10,news politics uk world science tech
+telegraph.co.uk,News,hard,8,news world business technology opinion
+politico.com,News,medium,10,politics policy congress election economy
+axios.com,News,medium,10,technology business politics economy AI
+vox.com,News,medium,10,technology culture politics science economy
+slate.com,News,medium,8,culture politics technology business
+businessinsider.com,News,hard,10,tech finance economy startup markets
+techcrunch.com,News,medium,12,startup AI funding tech company venture
+theverge.com,News,medium,12,tech review gadgets science AI apps
+engadget.com,News,medium,10,tech gadgets review deals gaming
+mashable.com,News,medium,8,tech science social media culture
+zdnet.com,News,medium,10,technology security cloud AI enterprise
+datadog.com,Technology,medium,10,monitoring infrastructure cloud observability blog
+grafana.com,Technology,medium,8,dashboards monitoring observability blog
+mongodb.com,Technology,medium,10,database documentation atlas blog
+elastic.co,Technology,medium,8,elasticsearch search observability security
+redis.io,Technology,easy,8,documentation commands data structures caching
+supabase.com,Technology,medium,10,database auth storage edge functions docs
+planetscale.com,Technology,medium,8,database mysql serverless branching blog
+fly.io,Technology,medium,8,deploy documentation blog apps machines
+render.com,Technology,medium,8,deploy services documentation pricing blog
+railway.app,Technology,medium,8,deploy documentation templates blog
+cloudflare.com,Technology,hard,10,workers pages r2 zero trust blog
+sentry.io,Technology,medium,8,error monitoring documentation blog
+postman.com,Technology,medium,8,api testing documentation blog
+twilio.com,Technology,medium,8,api sms voice messaging documentation
+auth0.com,Technology,medium,8,authentication authorization documentation blog
+okta.com,Technology,medium,8,identity security authentication workforce
+pagerduty.com,Technology,medium,8,incident management automation blog
+circleci.com,Technology,medium,8,ci cd pipeline documentation blog
+gitlab.com,Technology,medium,10,devops ci cd documentation blog
+bitbucket.org,Technology,medium,8,git repositories pipelines documentation
+pkg.go.dev,Technology,easy,10,package documentation standard library modules
+crates.io,Technology,easy,10,rust crate library package
+pypi.org,Technology,easy,10,python package library project
+npmjs.com,Technology,easy,10,javascript package library typescript
+rubygems.org,Technology,easy,8,ruby gem library package
+hex.pm,Technology,easy,8,elixir erlang package library
+typescriptlang.org,Technology,easy,8,documentation handbook playground
+reactjs.org,Technology,easy,8,documentation tutorial hooks components
+vuejs.org,Technology,easy,8,guide documentation api ecosystem
+angular.io,Technology,easy,8,documentation guide tutorial cli
+svelte.dev,Technology,easy,8,documentation tutorial examples blog
+nextjs.org,Technology,easy,8,documentation app router pages api
+tailwindcss.com,Technology,easy,8,documentation utility classes components
+docs.rs,Technology,easy,10,rust documentation crate library
+rei.com,E-Commerce,hard,10,outdoor gear camping hiking climbing
+chewy.com,E-Commerce,hard,8,pet food supplies dog cat
+zappos.com,E-Commerce,medium,10,shoes boots sneakers sandals
+newegg.com,E-Commerce,hard,10,computer parts GPU monitor SSD
+bhphotovideo.com,E-Commerce,medium,8,camera lens photography video
+ikea.com,E-Commerce,hard,10,furniture storage kitchen bedroom living room
+gap.com,E-Commerce,medium,8,clothing jeans sale kids women men
+hm.com,E-Commerce,hard,8,clothing fashion sustainability women men
+zara.com,E-Commerce,hard,8,clothing women men shoes bags
+uniqlo.com,E-Commerce,hard,8,clothing essentials outerwear basics
+adidas.com,E-Commerce,hard,10,shoes ultraboost running originals
+puma.com,E-Commerce,medium,8,shoes running motorsport training
+underarmour.com,E-Commerce,medium,8,shoes apparel running training
+lululemon.com,E-Commerce,hard,8,yoga running training women men
+williams-sonoma.com,E-Commerce,medium,8,kitchen cookware appliances furniture
+crateandbarrel.com,E-Commerce,medium,8,furniture home decor kitchen
+potterybarn.com,E-Commerce,medium,8,furniture bedroom living room decor
+anthropologie.com,E-Commerce,medium,8,clothing home furniture gifts
+asos.com,E-Commerce,hard,10,clothing shoes accessories sale
+shein.com,E-Commerce,hard,8,clothing women dresses shoes
+epa.gov,Government,easy,10,environment water air regulations climate
+fda.gov,Government,easy,10,drugs food safety medical devices recalls
+census.gov,Government,easy,8,population data demographics statistics
+noaa.gov,Government,easy,10,weather climate ocean forecasts data
+usgs.gov,Government,easy,8,earthquakes volcanoes maps science water
+loc.gov,Government,easy,10,library collections digital exhibitions
+caltech.edu,Education,easy,8,research faculty departments campus
+columbia.edu,Education,easy,8,programs research campus admissions
+princeton.edu,Education,easy,8,research departments admissions campus
+cornell.edu,Education,easy,8,research programs campus admissions
+upenn.edu,Education,easy,8,research programs schools campus
+uchicago.edu,Education,easy,8,research programs admissions academics
+duke.edu,Education,easy,8,research programs admissions campus
+northwestern.edu,Education,easy,8,research programs schools campus
+cmu.edu,Education,easy,8,research computer science robotics AI
+gatech.edu,Education,easy,8,research engineering computing campus
+variety.com,Entertainment,medium,10,movies tv music awards box office
+hollywoodreporter.com,Entertainment,medium,8,movies tv industry business awards
+deadline.com,Entertainment,medium,8,movies tv deals casting news
+rollingstone.com,Entertainment,medium,8,music culture movies tv politics
+pitchfork.com,Entertainment,medium,8,music reviews albums artists news
+gamespot.com,Entertainment,medium,10,games reviews news guides
+ign.com,Entertainment,medium,10,games reviews movies tv guides
+polygon.com,Entertainment,medium,8,games reviews news culture
+kotaku.com,Entertainment,medium,8,games culture reviews news
+pcgamer.com,Entertainment,medium,8,pc gaming hardware reviews news
+medicalnewstoday.com,Health,medium,10,health conditions nutrition wellness drugs
+drugs.com,Health,medium,10,medications pill identifier interactions dosage
+everydayhealth.com,Health,medium,8,conditions wellness nutrition diet fitness
+verywellhealth.com,Health,medium,8,conditions treatments symptoms wellness
+psych.org,Health,easy,8,psychiatry mental health conditions research
+nerdwallet.com,Finance,medium,10,credit cards loans banking investing
+investopedia.com,Finance,easy,12,investing trading stocks terms definitions
+bankrate.com,Finance,medium,10,mortgage rates savings loans credit
+fool.com,Finance,medium,10,investing stocks portfolio retirement
+cnbc.com,Finance,medium,12,markets economy business investing technology
+marketwatch.com,Finance,medium,10,stocks markets investing news economy
+seekingalpha.com,Finance,hard,8,stocks analysis dividends earnings
+mint.com,Finance,medium,8,budgeting credit score finance tools
+epicurious.com,Food,easy,10,recipes cooking dinner dessert chicken
+seriouseats.com,Food,easy,10,recipes technique guide equipment science
+bonappetit.com,Food,medium,10,recipes cooking restaurant culture
+tasty.co,Food,easy,8,recipes easy quick dinner dessert
+simplyrecipes.com,Food,easy,8,recipes dinner chicken pasta soup
+vrbo.com,Travel,hard,8,vacation rentals beach mountain cabin
+hostelworld.com,Travel,medium,8,hostels europe asia budget travel
+skyscanner.com,Travel,hard,8,cheap flights compare airlines hotels
+lonelyplanet.com,Travel,medium,10,destinations guides tips best places
+viator.com,Travel,medium,8,tours experiences activities attractions
+compass.com,Real Estate,hard,8,homes for sale listings luxury
+movoto.com,Real Estate,medium,8,homes for sale neighborhoods
+opendoor.com,Real Estate,medium,8,buy sell homes instant offers
+edmunds.com,Automotive,medium,10,car reviews pricing comparison deals
+motortrend.com,Automotive,medium,8,car reviews news comparisons
+caranddriver.com,Automotive,medium,8,reviews comparisons news road tests
+tesla.com,Automotive,hard,8,model s y x cybertruck energy
+bhg.com,Reference,easy,10,home garden recipes decorating ideas
+hgtv.com,Reference,easy,8,home renovation shows decorating
+diy.com,Reference,easy,8,projects home improvement garden
+bobvila.com,Reference,easy,8,home improvement repair DIY tips
+law.cornell.edu,Reference,easy,8,law legal code constitution supreme court
+findlaw.com,Reference,easy,8,legal advice attorney law articles
+justia.com,Reference,easy,8,law cases statutes regulations
+worldbank.org,Government,easy,8,development data research countries
+imf.org,Government,easy,8,economy data reports countries
+redcross.org,Government,easy,8,disaster relief blood donate
+quora.com,Social,medium,10,questions answers programming technology science
+tumblr.com,Social,medium,8,blogs art photography culture
+wordpress.com,Technology,easy,10,blog themes plugins hosting
+wix.com,Technology,medium,8,website builder templates design
+squarespace.com,Technology,medium,8,website templates design portfolio
+medium.com,Social,medium,10,technology programming AI startup culture
+substack.com,Social,medium,8,newsletter writing culture technology
+archive.org,Reference,easy,10,wayback machine books audio movies
+gutenberg.org,Reference,easy,8,free books ebooks literature classics
+weather.com,Reference,medium,8,forecast radar maps severe alerts
+accuweather.com,Reference,medium,8,forecast radar hourly daily
+verizon.com,Technology,hard,8,phones plans wireless internet
+att.com,Technology,hard,8,wireless internet tv plans
+tmobile.com,Technology,hard,8,phones plans wireless 5g
+coingecko.com,Finance,medium,8,cryptocurrency prices bitcoin ethereum
+coinmarketcap.com,Finance,medium,8,crypto prices market cap rankings
+etherscan.io,Finance,medium,8,ethereum transactions blocks addresses
+huggingface.co,Technology,easy,12,models datasets transformers spaces
+kaggle.com,Technology,medium,10,datasets competitions notebooks models
+paperswithcode.com,Technology,easy,10,machine learning papers methods benchmarks
+anthropic.com,Technology,medium,8,research blog claude safety
+deepmind.com,Technology,medium,8,research blog publications AI
+dropbox.com,Technology,medium,8,features business plans blog
+evernote.com,Technology,medium,8,features templates blog organization
+todoist.com,Technology,medium,8,features productivity blog tips
+asana.com,Technology,medium,8,project management features resources
+monday.com,Technology,medium,8,project management CRM features
+airtable.com,Technology,medium,8,templates guides blog features
+miro.com,Technology,medium,8,templates whiteboard collaboration features
+linear.app,Technology,medium,8,features documentation changelog blog
+hackernews.com,Technology,easy,8,news discussions submissions best
+owasp.org,Technology,easy,8,top ten security testing guides
+cve.org,Technology,easy,8,vulnerabilities database search records
