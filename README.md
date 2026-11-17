@@ -4,6 +4,8 @@ One of the toughest browser automation benchmarks available. 999 URLs across 327
 
 Used to measure [spider-browser](https://github.com/spider-rs/spider-browser) success rates against production websites.
 
+New to scraping? The [web scraping guide](https://spider.cloud/web-scraping/?utm_source=github&utm_medium=readme&utm_campaign=spider-browser-dataset) shows what a plain fetch returns and when a page needs a browser.
+
 ## Files
 
 | File | Description |
